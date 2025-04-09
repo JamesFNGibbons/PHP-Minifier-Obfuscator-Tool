@@ -11,7 +11,7 @@ This script is intended for internal use by **121 Digital** only.
 
 **Author:** James Gibbons  
 **Email:** jgibbons@121digital.co.uk  
-**Company:** 121 Digital
+**Company:** 121 Digital Services Limited
 
 > Do **not** use this tool to hide malicious or unethical code.  
 > It is strictly for securing proprietary WordPress plugins deployed to client sites.
